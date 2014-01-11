@@ -1,0 +1,6 @@
+# For CVI by Philippe
+**/*.exe
+cvi2013/*.exe
+**/cvibuild.*/
+*.zip
+test/*
